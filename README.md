@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/sudhir8485/leetcode-solutions/tree/master/0704-binary-search) |
 | [3731-find-missing-elements](https://github.com/sudhir8485/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sudhir8485/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/sudhir8485/leetcode-solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
