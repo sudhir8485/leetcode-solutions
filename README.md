@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/sudhir8485/leetcode-solutions/tree/master/0704-binary-search) |
+| [1200-minimum-absolute-difference](https://github.com/sudhir8485/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [3731-find-missing-elements](https://github.com/sudhir8485/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1200-minimum-absolute-difference](https://github.com/sudhir8485/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [3731-find-missing-elements](https://github.com/sudhir8485/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
