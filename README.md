@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sudhir8485/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [3731-find-missing-elements](https://github.com/sudhir8485/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sudhir8485/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/sudhir8485/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sudhir8485/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sudhir8485/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0208-implement-trie-prefix-tree](https://github.com/sudhir8485/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## Math
 |  |
 | ------- |
@@ -79,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sudhir8485/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sudhir8485/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
