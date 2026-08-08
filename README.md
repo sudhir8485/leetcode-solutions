@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sudhir8485/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/sudhir8485/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/sudhir8485/leetcode-solutions/tree/master/0704-binary-search) |
 | [1200-minimum-absolute-difference](https://github.com/sudhir8485/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [3731-find-missing-elements](https://github.com/sudhir8485/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -12,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/sudhir8485/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/sudhir8485/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [3731-find-missing-elements](https://github.com/sudhir8485/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/sudhir8485/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/sudhir8485/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [3731-find-missing-elements](https://github.com/sudhir8485/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -35,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/sudhir8485/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/sudhir8485/leetcode-solutions/tree/master/0704-binary-search) |
 ## Tree
 |  |
@@ -91,4 +95,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sudhir8485/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/sudhir8485/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 <!---LeetCode Topics End-->
