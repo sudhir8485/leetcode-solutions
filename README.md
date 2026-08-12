@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sudhir8485/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0208-implement-trie-prefix-tree](https://github.com/sudhir8485/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sudhir8485/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [3731-find-missing-elements](https://github.com/sudhir8485/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sudhir8485/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/sudhir8485/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0208-implement-trie-prefix-tree](https://github.com/sudhir8485/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## Math
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sudhir8485/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sudhir8485/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sudhir8485/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
