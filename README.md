@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sudhir8485/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [1544-make-the-string-great](https://github.com/sudhir8485/leetcode-solutions/tree/master/1544-make-the-string-great) |
 ## Design
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/sudhir8485/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0443-string-compression](https://github.com/sudhir8485/leetcode-solutions/tree/master/0443-string-compression) |
 | [0821-shortest-distance-to-a-character](https://github.com/sudhir8485/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [1544-make-the-string-great](https://github.com/sudhir8485/leetcode-solutions/tree/master/1544-make-the-string-great) |
 ## Math
 |  |
 | ------- |
