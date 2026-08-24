@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sudhir8485/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sudhir8485/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sudhir8485/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sudhir8485/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sudhir8485/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sudhir8485/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/sudhir8485/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [3731-find-missing-elements](https://github.com/sudhir8485/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sudhir8485/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sudhir8485/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/sudhir8485/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/sudhir8485/leetcode-solutions/tree/master/0443-string-compression) |
@@ -113,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudhir8485/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sudhir8485/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sudhir8485/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
