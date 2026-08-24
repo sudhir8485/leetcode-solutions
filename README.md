@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sudhir8485/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [1544-make-the-string-great](https://github.com/sudhir8485/leetcode-solutions/tree/master/1544-make-the-string-great) |
+| [2390-removing-stars-from-a-string](https://github.com/sudhir8485/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/sudhir8485/leetcode-solutions/tree/master/0443-string-compression) |
 | [0821-shortest-distance-to-a-character](https://github.com/sudhir8485/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1544-make-the-string-great](https://github.com/sudhir8485/leetcode-solutions/tree/master/1544-make-the-string-great) |
+| [2390-removing-stars-from-a-string](https://github.com/sudhir8485/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sudhir8485/leetcode-solutions/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/sudhir8485/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
