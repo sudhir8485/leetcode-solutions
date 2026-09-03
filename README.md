@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/sudhir8485/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/sudhir8485/leetcode-solutions/tree/master/0704-binary-search) |
 | [0821-shortest-distance-to-a-character](https://github.com/sudhir8485/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [1184-distance-between-bus-stops](https://github.com/sudhir8485/leetcode-solutions/tree/master/1184-distance-between-bus-stops) |
 | [1200-minimum-absolute-difference](https://github.com/sudhir8485/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sudhir8485/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sudhir8485/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
